@@ -1,0 +1,46 @@
+[
+  {
+    "route": "github",
+    "target": "https://github.com/petrspelos"
+  },
+  {
+    "route": "youtube",
+    "target": "https://www.youtube.com/channel/UC5P4o4uvwae7r3_xvaKTutA"
+  },
+  {
+    "route": "videos",
+    "target": "https://odysee.com/@peter:c"
+  },
+  {
+    "route": "lbry",
+    "target": "https://odysee.com/@peter:c"
+  },
+  {
+    "route": "twitch",
+    "target": "https://twitch.tv/spelos"
+  },
+  {
+    "route": "contact",
+    "target": "https://matrix.to/#/@shirline:matrix.org"
+  },
+  {
+    "route": "matrix",
+    "target": "https://matrix.to/#/@shirline:matrix.org"
+  },
+  {
+    "route": "chat",
+    "target": "https://matrix.to/#/!BKIQmmzroSxqmCgHjj:matrix.org?via=matrix.org"
+  },
+  {
+    "route": "hangout",
+    "target": "https://matrix.to/#/!BKIQmmzroSxqmCgHjj:matrix.org?via=matrix.org"
+  },
+  {
+    "route": "glimesh",
+    "target": "https://glimesh.tv/spelos/"
+  },
+  {
+    "route": "live",
+    "target": "https://glimesh.tv/spelos/"
+  }
+]
